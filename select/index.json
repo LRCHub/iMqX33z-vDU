@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Kickin The Pride 2025",
+  "base_artist": "KMNZ",
+  "createdAt": "2025-12-22T09:13:39.214251Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kickin The Pride",
+      "artist": "KMNZ",
+      "has_synced": false,
+      "path": "select/pl_01_Kickin_The_Pride_KMNZ.txt"
+    }
+  ]
+}
